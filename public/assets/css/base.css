@@ -21,7 +21,7 @@ footer, header, hgroup, menu, nav, section {
 display: block;}
 
 body {
-  background: #fff;
+  background: #bbbbbb;
   font-family: 'Merriweather', serif;;
   font-size: 19pt;
   font-weight: 300;
@@ -180,3 +180,11 @@ br.clear {
   clear: both;
 }
 
+#header-video {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
+}
