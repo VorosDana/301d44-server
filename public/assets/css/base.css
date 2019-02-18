@@ -14,7 +14,7 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-  vertical-align: baseline;}
+  vertical-align: baseline;}  
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -22,7 +22,7 @@ display: block;}
 
 body {
   background: #fff;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Merriweather', serif;;
   font-size: 19pt;
   font-weight: 300;
   line-height: 1.75em;
