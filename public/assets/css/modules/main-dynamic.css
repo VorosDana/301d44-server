@@ -263,7 +263,7 @@
   narrow screen adjustments
    ================================= */
 
-@media screen and (min-width: 961px) and (max-width: 1320px) {
+@media screen and (min-width: 261px) and (max-width: 1320px) {
   /* Basic */
   body, input, textarea, select {
     font-size: 16pt;

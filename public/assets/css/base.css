@@ -184,7 +184,8 @@ br.clear {
   position: absolute;
   top: 0px;
   left: 0px;
-  width: 100%;
+  width: 200%;
+  min-width: 800px;
   object-fit: cover;
   z-index: -1;
 }
